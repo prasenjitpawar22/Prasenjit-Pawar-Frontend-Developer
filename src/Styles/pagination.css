@@ -1,0 +1,8 @@
+.pagination-page {
+  font-weight: 600;
+  color: #07504d;
+}
+
+.active {
+  color: #1f7f7b;
+}
